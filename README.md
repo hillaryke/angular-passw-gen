@@ -1,1 +1,1 @@
-# angular-passw-gen
+# Angular password-generator
